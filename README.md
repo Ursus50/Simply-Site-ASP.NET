@@ -10,4 +10,5 @@ Po zalogowaniu użytkownik mam możliwość zmieniania wyświetlanego obrazka na
 * po kliknięciu na obrazek (zdjęcia wyświetlane w kolejności ruchu wskazówek zegara)
 * po wciśnięciu przycisku (zdjęcie wyświetlane w losowej kolejności)
 Z lewej strony są prowadzone statystyki.
+
 Użytkownik ma możliwość podejrzenia stanów aplikacji u innych zalogowanych użytkowników.
