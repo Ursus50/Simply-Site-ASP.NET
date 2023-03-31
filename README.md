@@ -10,5 +10,5 @@ Po zalogowaniu użytkownik mam możliwość zmieniania wyświetlanego obrazka na
 * po kliknięciu na obrazek (zdjęcia wyświetlane w kolejności ruchu wskazówek zegara)
 * po wciśnięciu przycisku (zdjęcie wyświetlane w losowej kolejności)
 
-Z lewej strony są prowadzone statystyki.
+Z lewej strony są wyświetlane prowadzone statystyki.
 Użytkownik ma możliwość podejrzenia statystyk u innych zalogowanych użytkowników.
