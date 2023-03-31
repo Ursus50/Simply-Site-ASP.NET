@@ -1,0 +1,130 @@
+﻿.ogol {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    //border: 1px solid;
+    color: black;
+    height: 98vh;
+}
+
+.lewa_strona {
+    display: inline-block;
+    position: relative;
+    width: 30%;
+   // border: 1px solid;
+    color: black;
+    height: 100%;
+    float: left;
+}
+.prawa_strona {
+    display: inline-block;
+    position: relative;
+    width: 69%;
+   // border: 1px solid;
+    color: black;
+    height: 100%;
+    float: right;
+}
+
+.gora {
+    float: left;
+    width: 100%;
+    border: 1px solid;
+    color: black;
+    height: 32vh;
+}
+
+.srodek {
+    float: left;
+    width: 100%;
+    border: 1px solid;
+    color: black;
+    height: 33vh;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+}
+
+.dol {
+    float: left;
+    width: 100%;
+    border: 1px solid;
+    color: black;
+    height: 32vh;
+}
+
+.lewy {
+    float: left;
+    width: 20%;
+    border: 1px solid;
+    color: black;
+    height: 100%;
+
+    position: relative;
+}
+
+.prawy {
+    float: right;
+    width: 20%;
+    border: 1px solid;
+    color: black;
+    height: 100%;
+    position: relative
+}
+
+.srodekO {
+    width: 50%;
+    height: 50%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.srodekButton {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.panel {
+    margin: 0;
+    position: absolute;
+    height: 15vh;
+    width: 30vh;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: green;
+    text-align: center;
+}
+
+
+.czerwony {
+
+    color: red;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.niebieski {
+    color: Blue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 17px;
+}
+
+.pogrubiony {
+    font-weight: bold;
+}
+
+.lewylewy {
+    float: left;
+    width: 50%;
+    color: black;
+    text-align: center
+}
