@@ -11,4 +11,4 @@ Po zalogowaniu użytkownik mam możliwość zmieniania wyświetlanego obrazka na
 * po wciśnięciu przycisku (zdjęcie wyświetlane w losowej kolejności)
 
 Z lewej strony są prowadzone statystyki.
-Użytkownik ma możliwość podejrzenia stanów aplikacji u innych zalogowanych użytkowników.
+Użytkownik ma możliwość podejrzenia statystyk u innych zalogowanych użytkowników.
